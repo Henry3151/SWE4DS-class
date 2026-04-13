@@ -2,9 +2,8 @@
 import pandas as pd
 
 # URL do dataset
-DATASET_URL = "https://exemplo.com/dados.csv"
+DATASET_URL = "https://exemplo.com/dados.xls"
 
 def carregar_dados():
-    DATASET_URL = "https://exemplo.com/dados.zip"
     df = pd.read_csv(DATASET_URL)
     return df
