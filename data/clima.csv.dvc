@@ -1,0 +1,5 @@
+outs:
+- md5: f3491f53bde966e4ee2a9484a495d4b8
+  size: 186
+  hash: md5
+  path: clima.csv
